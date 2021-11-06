@@ -27,6 +27,11 @@ Heroicons
 yarn add @heroicons/react
 ```
 
+Tailwind ScrollBar Hide
+```
+yarn add tailwind-scrollbar-hide
+```
+
 
 ## Getting Started
 
@@ -57,6 +62,7 @@ To learn more about, take a look at the following resources:
 - [Tailwindcss Documentation](https://tailwindcss.com/docs) - Learn more about tailwindcss
 - [Heroicons](https://github.com/tailwindlabs/heroicons) - more info in github
 - [React Icons](https://github.com/react-icons/react-icons) - Include popular icons in your React projects easily with react-icons
+- [Tailwind ScrollBar Hide](https://www.npmjs.com/package/tailwind-scrollbar-hide) - Npm package
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
