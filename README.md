@@ -1,6 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Hulu Clone 2.0
+
+Let's build Hulu clone with:
+- Next JS
+- Tailwind CSS
+- Responsive
+- Request API
+- Deploy using Vercel
+
+Thanks Sonny Sangha for this [Tutorial](https://www.youtube.com/watch?v=MqDlsjc8GLo)
+
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
