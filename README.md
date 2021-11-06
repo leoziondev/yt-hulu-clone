@@ -9,6 +9,24 @@ Let's build Hulu clone with:
 
 Thanks Sonny Sangha for this [Tutorial](https://www.youtube.com/watch?v=MqDlsjc8GLo)
 
+## Packages
+
+Tailwind
+```
+yarn add -D tailwindcss@latest postcss@latest autoprefixer@latest
+```
+
+Tailwind configuration files
+```
+npx tailwindcss init -p
+```
+[see more configs info in docs](https://tailwindcss.com/docs/guides/nextjs)
+
+Heroicons 
+```
+yarn add @heroicons/react
+```
+
 
 ## Getting Started
 
@@ -32,10 +50,13 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+To learn more about, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Tailwindcss Documentation](https://tailwindcss.com/docs) - Learn more about tailwindcss
+- [Heroicons](https://github.com/tailwindlabs/heroicons) - more info in github
+- [React Icons](https://github.com/react-icons/react-icons) - Include popular icons in your React projects easily with react-icons
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
