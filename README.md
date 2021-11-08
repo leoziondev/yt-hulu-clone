@@ -32,6 +32,11 @@ Tailwind ScrollBar Hide
 yarn add tailwind-scrollbar-hide
 ```
 
+React Flip Move
+```
+yarn add react-flip-move
+```
+
 
 ## Getting Started
 
@@ -63,6 +68,7 @@ To learn more about, take a look at the following resources:
 - [Heroicons](https://github.com/tailwindlabs/heroicons) - more info in github
 - [React Icons](https://github.com/react-icons/react-icons) - Include popular icons in your React projects easily with react-icons
 - [Tailwind ScrollBar Hide](https://www.npmjs.com/package/tailwind-scrollbar-hide) - Npm package
+- [React Flip Move](https://github.com/joshwcomeau/react-flip-move) - Github Info demo and usage
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
